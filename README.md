@@ -1,4 +1,4 @@
-GitSubsplitDemo
+GitSubtreeDemo
 ===============
 
-Playing with https://github.com/dflydev/git-subsplit
+Playing with https://github.com/apenwarr/git-subtree.
